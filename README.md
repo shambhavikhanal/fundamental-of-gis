@@ -1,1 +1,3 @@
-# fundamental-of-gis
+# Fundamental of Geographic Information Systems (CEOG 5561)
+
+This course was provided by [Professor G. Narayanaraj](https://cla.umn.edu/about/directory/profile/nara0030). In this repo, I have uploaded my project for this course. You can access it with this [link]()
